@@ -1,0 +1,6 @@
+[submodule "Exercise1"]
+	path = Exercise1
+	url = git@github.com:paololanza/Exercise1.git
+[submodule "Exercise2"]
+	path = Exercise2
+	url = git@github.com:paololanza/Exercise2.git
